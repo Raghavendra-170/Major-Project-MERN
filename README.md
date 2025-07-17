@@ -6,8 +6,9 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 🔗 [Wanderlust Live Site](https://major-project-mern.onrender.com/listings)  
 📦 [GitHub Repository](https://github.com/Raghavendra-170/Major-Project-MERN)
 
-##📸 Screenshots
+## 📸 Screenshots
  ![Home Page](https://i.postimg.cc/rwpCDjw6/Screenshot-2025-07-17-194306.png)
+ ---
  ![Booking Page](https://i.postimg.cc/0ytnn3B2/Screenshot-2025-07-17-194337.png)
  
 
