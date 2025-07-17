@@ -1,4 +1,4 @@
-Wanderlust – Hotel Booking Web App
+## Wanderlust – Hotel Booking Web App
 
 A full-featured hotel booking application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. Wanderlust allows users to explore, book, review, and manage hotel listings with a clean, responsive UI.
 
@@ -6,12 +6,12 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 🔗 [Wanderlust Live Site](https://major-project-mern.onrender.com/listings)  
 📦 [GitHub Repository](https://github.com/Raghavendra-170/Major-Project-MERN)
 
- 📸 Screenshots
+##📸 Screenshots
  ![Home Page](https://i.postimg.cc/rwpCDjw6/Screenshot-2025-07-17-194306.png)
  ![Booking Page](https://i.postimg.cc/0ytnn3B2/Screenshot-2025-07-17-194337.png)
  
 
-🚀 Features
+## 🚀 Features
 
 - 🔐 **User Authentication** (Signup, Login, Logout)
 - 🧭 **Browse Listings** by title, price, or location
@@ -21,7 +21,7 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 - 📦 **Backend APIs** with Express.js and MongoDB
 - 🧹 **Modular Codebase** following SDLC and best practices
 
- 🛠 Tech Stack
+ ## 🛠 Tech Stack
 
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap
 - **Backend:** Node.js, Express.js
@@ -31,7 +31,7 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 
 .
 
-📁 Folder Structure
+## 📁 Folder Structure
 ---
 
 
@@ -95,8 +95,7 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 git clone https://github.com/Raghavendra-170/Major-Project-MERN.git
 cd Major-Project-MERN
 ```
-
-📦 Backend Setup
+##📦 Backend Setup
 ```
 cd backend
 npm install
@@ -122,7 +121,7 @@ CLOUD_API_SECRET=your_cloudinary_api_secret
 MAP_TOKEN=your_mapbox_access_token
 ```
 
-🎨 Frontend Setup
+## 🎨 Frontend Setup
 ```
 cd ../frontend
 npm install
