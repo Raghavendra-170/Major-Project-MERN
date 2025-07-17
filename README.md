@@ -121,7 +121,7 @@ CLOUD_API_SECRET=your_cloudinary_api_secret
 ```
 MAP_TOKEN=your_mapbox_access_token
 ```
-`
+
 🎨 Frontend Setup
 ```
 cd ../frontend
