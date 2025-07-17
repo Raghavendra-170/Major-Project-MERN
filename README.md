@@ -89,7 +89,7 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 git clone https://github.com/Raghavendra-170/Major-Project-MERN.git
 cd Major-Project-MERN
 ```
-##📦 Backend Setup
+## 📦 Backend Setup
 ```
 cd backend
 npm install
