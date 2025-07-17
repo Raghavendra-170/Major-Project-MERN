@@ -32,6 +32,8 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 .
 
 📁 Folder Structure
+---
+
 
 ├── node_modules (.gitignore)
 ├── public
@@ -83,6 +85,8 @@ A full-featured hotel booking application built with the MERN (MongoDB, Express.
 └── package-lock.json
 └── package.json
 └── schema.js
+---
+
 
 ## 🚀 Getting Started
 
