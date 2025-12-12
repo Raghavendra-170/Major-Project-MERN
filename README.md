@@ -3,7 +3,7 @@
 A full-featured hotel booking application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. Wanderlust allows users to explore, book, review, and manage hotel listings with a clean, responsive UI.
 
 
-🔗 [Wanderlust Live Site](https://major-project-mern.onrender.com/listings)  
+🔗 [Wanderlust Live Site](https://hotel-booking-0rhi.onrender.com/listings)  
 📦 [GitHub Repository](https://github.com/Raghavendra-170/Major-Project-MERN)
 
 ## 📸 Screenshots
